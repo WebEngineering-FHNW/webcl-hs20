@@ -1,7 +1,7 @@
 # webcl-hs20
 module web clients fall semester 2020
 
-## week1 Anschluss an WebPr finden
+## week 1: Anschluss an WebPr finden
 
 Script divided in 3 parts
 UIArchitecture-CustomUIElements-Remoting
@@ -35,4 +35,5 @@ Self-made framework is not a dependency
 the first one is more stable
 
 Simple Todo App with MVC
-Github pages under https://webengineering-fhnw.github.io/webcl-hs20/week1/todo/View.html
+
+[Github pages](https://webengineering-fhnw.github.io/webcl-hs20/week1/todo/View.html)
