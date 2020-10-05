@@ -40,3 +40,6 @@ Simple Todo App with MVC
 
 ## Week 2
 [Github pages](https://webengineering-fhnw.github.io/webcl-hs20/week2/todo/View.html)
+
+## Week 3
+[Github pages](https://webengineering-fhnw.github.io/webcl-hs20/week3/todo/View.html)
