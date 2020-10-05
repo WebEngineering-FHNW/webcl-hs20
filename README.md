@@ -37,3 +37,6 @@ the first one is more stable
 Simple Todo App with MVC
 
 [Github pages](https://webengineering-fhnw.github.io/webcl-hs20/week1/todo/View.html)
+
+## Week 2
+[Github pages](https://webengineering-fhnw.github.io/webcl-hs20/week2/todo/View.html)
