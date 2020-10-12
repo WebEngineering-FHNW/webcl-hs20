@@ -11,14 +11,41 @@ Das Drehbuch ist in drei Teile gegliedert:
 > * 50 Punkte = 6.0, 60% von den Punkten sind notwendig um das Modul zu bestehen.  
 > * Punkte sind individuell auf MS Teams einzutragen unter *Notizen* im jeweiligen Wochen-Channel. 
 
-## week2 Validationen, Konvertierungen, Attribute  
+## Week 3 Attribute Projektor  
+[Todo App w3](https://webengineering-fhnw.github.io/webcl-hs20/week3/todo/View.html)  
+
+**Inhalt der Vorlesung**  
+> - CSS Goodie
+> - Spezialaufgabe Master-Detail View  
+> - Test angeschaut  
+
+**CSS Goodie**  
+> [Dreiecke auf 2 Varianten mit CSS zeichnen](https://webengineering-fhnw.github.io/webcl-hs20/week3/CSSTriangle.html)  
+
+**Spezialaufgabe Master-Detail View**  
+> Ziel: Detail-View enthält mehr Informationen als der Master-View. Man kann bei beiden Views Änderungen machen, die bei beiden Views dann übernommen werden.  
+[Master-Detail View](https://github.com/SteveVogel1/MasterDetail/View/MasterDetailView.html)  
+
+**Testing**  
+> Ziel: Beim Todo App soll bei der Änderung des Status auf *done* bei der Editierbarkeit des Textfeldes auch eine Änderung hervorgerufen werden.  
+> Anwendung eines Projektors: Der Projektor mach den View und das Binding. Er erzeugt also die visuelle Präsentaiion und die Art wie der Benutzer damit umgeht.  
+> todoTests implementiert
+
+**Beantwortete Fragen zum Inhalt**  
+> - Die drei Punkte in einer Klammer [...xxx] sind ein Spreat-Operator. Dieser zieht beispielsweise in einem Array das Element über mehrere Stellen.  
+> - Dirty = Eine Änderung, die noch nicht gespeichert wurde.
+> - DevDocs für JavaScript --> [JsDoc](https://devdocs.io/javascript/)
+> - Sechs Werte, die bei javascript zu false evaluiert werden: 0, false, undefined, null, " ", NaN
+
+
+## Week 2 Validationen, Konvertierungen, Attribute  
 [Todo App w2](https://webengineering-fhnw.github.io/webcl-hs20/week2/todo/View.html)
 
 **Inhalt der Vorlesung**
-> CSS Goodie  
-> MVC im Detail erklärt  
-> Tests angeschaut  
-> Spezialaufgaben 
+> - CSS Goodie  
+> - MVC im Detail erklärt  
+> - Tests angeschaut  
+> - Spezialaufgaben 
 
 **CSS Goodie**  
 [CSS Validation](https://webengineering-fhnw.github.io/webcl-hs20/week2/CSSValidation.html)
@@ -76,7 +103,7 @@ Das Drehbuch ist in drei Teile gegliedert:
 > - *Observierbar* heisst, das wir die Änderungen mitbekommen
 
 
-## week1 Anschluss an WebPr finden  
+## Week 1 Anschluss an WebPr finden  
 [Todo App w1](https://webengineering-fhnw.github.io/webcl-hs20/week1/todo/View.html)  
 
 **Inhalt der Vorlesung**
