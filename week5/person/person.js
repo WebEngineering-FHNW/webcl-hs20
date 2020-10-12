@@ -49,7 +49,7 @@ const NoPerson = (() => { // one time creation, singleton
     johnDoe.firstname.setConvertedValue("");
     johnDoe.lastname.setConvertedValue("");
     return johnDoe;
-})(); // IIFE
+})();
 
 const SelectionController = () => {
 
