@@ -30,7 +30,7 @@ const Attribute = value => {
     };
     const setConvertedValue = val => getObs(VALUE).setValue(convert(val));
 
-    // todo: this might set many validators without discharging old ones
+    // this might set many validators without discharging old ones
     const setValidator = validate => getObs(VALUE).onChange( val => getObs(VALID).setValue(validate(val)));
 
     return { getObs, hasObs, setValidator, setConverter, setConvertedValue }
