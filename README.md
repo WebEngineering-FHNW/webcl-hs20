@@ -9,7 +9,28 @@ Das Drehbuch ist in drei Teile gegliedert:
 **Evaluation:**
 > * Punkte sammeln durch Beiträge im Unterricht. Sei es durch Fragen stellen oder beantworten.  
 > * 50 Punkte = 6.0, 60% von den Punkten sind notwendig um das Modul zu bestehen.  
-> * Punkte sind individuell auf MS Teams einzutragen unter *Notizen* im jeweiligen Wochen-Channel. 
+> * Punkte sind individuell auf MS Teams einzutragen unter *Notizen* im jeweiligen Wochen-Channel.  
+
+## Week 4 Master-Detail   
+[Person Master-Detail View w4](https://webengineering-fhnw.github.io/webcl-hs20/week4/person/View.html)  
+
+**Inhalt der Vorlesung**  
+> - Spezialaufgabe JSDoc  
+> - Master-Detail View Liste plus Formular  
+ 
+
+**Spezialaufgabe JSDoc**  
+> [JSDoc](https://github.com/alexander-eser/JSDoc_Introduction)  
+
+**Beantwortete Fragen zum Inhalt**  
+> - Hysterese: Technische Schaltung die dauernd schwingt.
+    Bei einer Schaltung, in der das Einschalten dazu führt, dass es ausgemacht wird und umgekehrt. Hin und her flackern von Werten.  
+>   Kann auch bei Observables passieren. Diese haben aber ein Hytereseschutz, sodass wenn man versucht, den gleichen Wert nochmal zu setzen, werden keine Benachrichtigungen verschickt.  
+>   Schliesst Hyterese aber nicht vollständig aus.
+> - Kommentanre: Das kommentieren, was nicht selbsterklärend ist. Zum Beispiel Werteinschränkungen.<
+> - reichhaltige Attribute haben nicht nur ein Wert, sondern auch was der korrekte Wert wäre (Konvertierung, Validation), können viele unterschiedliche Properties an die sich das UI binden kann und dadurch Benachrichtigung bekommt  
+> - Effizienz: an einer Stelle erstellen und auch nur an einer Stelle bewirtschaften
+> - *unoffentsichtlich* =  Wird vom Benutzer nicht erkannt und oftmals auch nicht vom Programmierer
 
 ## Week 3 Attribute Projektor  
 [Todo App w3](https://webengineering-fhnw.github.io/webcl-hs20/week3/todo/View.html)  
