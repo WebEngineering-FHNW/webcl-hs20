@@ -11,6 +11,58 @@ Das Drehbuch ist in drei Teile gegliedert:
 > * 50 Punkte = 6.0, 60% von den Punkten sind notwendig um das Modul zu bestehen.  
 > * Punkte sind individuell auf MS Teams einzutragen unter *Notizen* im jeweiligen Wochen-Channel.  
 
+## Week 5 Projector Pattern    
+[Person Master-Detail View w5](https://webengineering-fhnw.github.io/webcl-hs20/week5/person/View.html)  
+
+**Inhalt der Vorlesung**  
+> - Spezialaufgabe CSS Goodie Collapse  
+> - Spezialaufgabe Quickstorm  
+> - Master-Detail View
+ 
+
+**Spezialaufgabe CSS Goodie Collapse**  
+> [CSS Collapse](https://github.com/davidkern1/CSSGoodieCollapse)  
+
+**Spezialaufgabe Quickstorm**  
+> link folgt  
+
+**Project Pattern**  
+> Context:  
+> User interfaces with potentially many screens that can be classified into typical schemes  
+> Widget (Anzeigeelemente) creation and binding through UI toolkit
+> Presentaion model abstraction  
+
+> Problem:  
+> Wenn man viele Screens hat, hat man auch viel Code Erstellung, Test und Verwaltung
+> Das was man gebaut hat, ist super spezifisch für ein bestimmtes UI-toolkit. Bei einer Änderun, muss man dann alles neu machen.  
+
+> Neue Idee:  
+> Ein Projektor bauen, welcher unser Presentation model anzeigt. Was der Benutzer sieht ist eine Präsentation.
+> ![projector](resources/images/projector.png)  
+
+> Lösungen:  
+> ![solutionProjector](resources/images/solutionProjector.png)  
+> Reichhaltigkeit:  
+> - Attribut hat ein aktueller Wert, BaseValue > Dirty state  
+> - Bindable Tags: Label, Visible, Optional, Enabled, ...  
+
+> Abstract Factory IProjector  
+> - Projektoren möchte man austauschen können, einfach wenn man ein Interface hat  
+> - Projektion Methoden kreiiren Ipresentations  
+> - Ipräsentations sind zusammenstellbar  
+> - Ipräsentation reveal inner widget  
+
+> Projector use  
+> ![projector-use](resources/images/projector-use.png)  
+
+> Endresultat  
+> ![resulting-context](resources/images/resulting-context.png)  
+> Nachteil: Es ist schwierig ein Projector mit einem allgemeinen Formular zu implementieren und zu testen
+
+
+**Beantwortete Fragen zum Inhalt**  
+> - [Purescript] (https://www.purescript.org/)  
+
 ## Week 4 Master-Detail   
 [Person Master-Detail View w4](https://webengineering-fhnw.github.io/webcl-hs20/week4/person/View.html)  
 
