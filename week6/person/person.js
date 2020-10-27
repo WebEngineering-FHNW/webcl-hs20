@@ -1,5 +1,6 @@
 import { Attribute, LABEL }                                 from "../presentationModel/presentationModel.js";
-import { listItemProjector, formProjector, pageCss }        from "./instantUpdateProjector.js";
+//import { listItemProjector, formProjector, pageCss }        from "./instantUpdateProjector.js";
+import { listItemProjector, formProjector, pageCss }        from "./tableProjector.js";
 
 export { MasterView, DetailView, Person, NoPerson, ALL_ATTRIBUTE_NAMES }
 
@@ -20,6 +21,9 @@ const Person = () => {                               // facade
     const jobAttr  = Attribute("Developer");
     jobAttr.getObs(LABEL).setValue("Job Description");
 
+
+    // 1) commented out since we do not use this at the moment
+    // 2) un-comment in case you need some converters or validators
     // lastnameAttr.setConverter( input => input.toUpperCase() );
     // lastnameAttr.setValidator( input => input.length >= 3   );
 

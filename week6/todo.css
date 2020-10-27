@@ -30,7 +30,7 @@ input[type=text]:focus {
     background-size: 100% 1px;
     background-repeat: no-repeat;
     background-position: right bottom;
-    transition: background-size 0.3s linear;
+    transition: background-size .3s linear;
 }
 #todoContainer {
     display:        grid;
