@@ -11,6 +11,35 @@ Das Drehbuch ist in drei Teile gegliedert:
 > * 50 Punkte = 6.0, 60% von den Punkten sind notwendig um das Modul zu bestehen.  
 > * Punkte sind individuell auf MS Teams einzutragen unter *Notizen* im jeweiligen Wochen-Channel.  
 
+## Week 7 SVG Canvas   
+[Canvas](https://webengineering-fhnw.github.io/webcl-hs20/week7/canvas-gauge-sketch/View.html)  
+[Svg-eyes](https://webengineering-fhnw.github.io/webcl-hs20/week7/svg-eyes-sketch/Eyes.html)  
+
+**Inhalt der Vorlesung**  
+> - CSS Goodie Ripple Effekt
+> - Spezialaufgabe Multi-Project Planning Concept  
+> - SVG & Canvas
+ 
+**Css Goodie**  
+[CSS Ripple](https://webengineering-fhnw.github.io/webcl-hs20/week7/CssRipple.html)  
+
+**Spezialaufgabe Multi-Project Planning Concept**  
+> [Figma-Prototype](https://www.figma.com/proto/TLR4g5FbkrEoQl9BcWnJGp/WebClients?node-id=72%3A2354&scaling=min-zoom)  
+
+**Beiträge aus dem Unterricht**  
+> [Mix-blend](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)  
+> [Browser-Präfix](https://www.mediaevent.de/css/browser-praefix.html)  
+> [Webkit](https://developer.mozilla.org/en-US/docs/Glossary/WebKit)  
+> [Custom Properties --*](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)  
+> [CSS Transition](https://developer.mozilla.org/de/docs/Web/CSS/transition)  
+> [Keyframes](https://developer.mozilla.org/de/docs/Web/CSS/@keyframes)
+> [Transition vs Animation](https://blog.hubspot.com/website/css-transition-vs-animation)
+
+**Beantwortete Fragen zum Inhalt**  
+> - Der Canvas ist super performant und braucht wenig Speicherplatz. Er ist ausserdem sehr stabil. Die Zeichnung auf dem Canvas wird über die GPU (wenn vorhanden) und nicht über die CPU gemacht  
+> - Bei Geschäftsapplikationen wird häufig VanillaJs benutzt, bei Spiele würde es aber mehr Werkzeuge benötigen.
+> - Für ältere Geräte hat man mit dem Canvas eine grössere Chance, dass Animationen auch gut funktionieren
+
 ## Week 6 CSS   
 [Person Master-Detail View w6](https://webengineering-fhnw.github.io/webcl-hs20/week6/person/View.html)  
 
