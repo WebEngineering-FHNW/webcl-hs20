@@ -11,6 +11,30 @@ Das Drehbuch ist in drei Teile gegliedert:
 > * 50 Punkte = 6.0, 60% von den Punkten sind notwendig um das Modul zu bestehen.  
 > * Punkte sind individuell auf MS Teams einzutragen unter *Notizen* im jeweiligen Wochen-Channel.  
 
+## Week 6 CSS   
+[Person Master-Detail View w6](https://webengineering-fhnw.github.io/webcl-hs20/week6/person/View.html)  
+
+**Inhalt der Vorlesung**  
+> - CSS Goodie material input field
+> - Spezialaufgabe Pseudo Elemente und z-index  
+> - Spezifisches CSS
+ 
+**Css Goodie**  
+[Todo App w6](https://webengineering-fhnw.github.io/webcl-hs20/week6/todo/View.html)  
+
+**Spezialaufgabe Pseudo Elemente und z-index**  
+> [Pseudo Elemente und z-index](https://github.com/Florian270496/WebCli_PseudoElements_ZIndex)  
+
+**IntelliJ Tipps & Tricks**  
+> Diagramm ansehen, der Abhängigkeiten zwischen Modulen zeigt: Rechtsklick auf den Ordner > Diagrams
+
+**Beantwortete Fragen zum Inhalt**  
+> - Unterschied zwischen ::before und :before [Link](https://developer.mozilla.org/de/docs/Web/CSS/::before)  
+> - Shallow wrapper = verwenden nur die Observable, machen sonst nichts  
+> - Controllern sind abhängig von den Projektoren
+> - Kommentare: Keine auskommentierte Codes einchecken und falls doch mit einem Kommentar hinzufügen, warum dieser Code auskommentiert wurde und unter welchen Umständen es wieder auskommentiert werden kann
+
+
 ## Week 5 Projector Pattern    
 [Person Master-Detail View w5](https://webengineering-fhnw.github.io/webcl-hs20/week5/person/View.html)  
 
@@ -18,7 +42,7 @@ Das Drehbuch ist in drei Teile gegliedert:
 > - Spezialaufgabe CSS Goodie Collapse  
 > - Spezialaufgabe Quickstorm  
 > - Master-Detail View
- 
+
 
 **Spezialaufgabe CSS Goodie Collapse**  
 > [CSS Collapse](https://github.com/davidkern1/CSSGoodieCollapse)  
