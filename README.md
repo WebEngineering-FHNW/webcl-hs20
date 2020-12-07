@@ -11,6 +11,7 @@ Das Drehbuch ist in drei Teile gegliedert:
 > * 50 Punkte = 6.0, 60% von den Punkten sind notwendig um das Modul zu bestehen.  
 > * Punkte sind individuell auf MS Teams einzutragen unter *Notizen* im jeweiligen Wochen-Channel.  
 
+
 ## Week 7 SVG Canvas   
 [Canvas](https://webengineering-fhnw.github.io/webcl-hs20/week7/canvas-gauge-sketch/View.html)  
 [Svg-eyes](https://webengineering-fhnw.github.io/webcl-hs20/week7/svg-eyes-sketch/Eyes.html)  
