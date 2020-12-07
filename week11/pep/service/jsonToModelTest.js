@@ -17,4 +17,6 @@ jsonToModelSuite.add("dev-no-img", assert => {
     assert.is(developer.img, "/path/imgno.jpg");
 });
 
+// TODO: TEST toProj.
+
 jsonToModelSuite.run();
