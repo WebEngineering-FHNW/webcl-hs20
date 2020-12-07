@@ -23,6 +23,6 @@ const projs = [
 const pepServices = () => {
 
     const loadDevelopers = withDevelopers => withDevelopers(devs);
-    const loadProjects = withDevelopers => withDevelopers(projs);
+    const loadProjects   = withProjects   => withProjects(projs);
     return { loadDevelopers, loadProjects }
 };

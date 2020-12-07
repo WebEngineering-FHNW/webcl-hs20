@@ -13,14 +13,12 @@ import "../domainDoc.js"
  * @return   {undefined} void
  */
 
-
 /**
  * Common interface for all services (abstract factory pattern)
  *
  * @typedef {
-              {loadDevelopers: (function(onDevelopersReadyCallback): undefined)}
+              {loadDevelopers: (function(onDevelopersReadyCallback): undefined)},
               {loadProjects:   (function(onProjectsReadyCallback): undefined)}
             } PepService
- * */
+ */
 
-// Auftrag: auch die Projekte über den PepService holen.

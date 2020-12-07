@@ -9,10 +9,10 @@ const toDeveloper = imagePath => (jsonDev, idx) => (
     }
 );
 
-const toProject = (jsonProj, idx) => (
+const toProject = jsonProj => (
     {
-        id:   jsonProj.id,
-        img:  jsonProj.color || "black",
-        name: jsonProj.name
+        id:    jsonProj.id,
+        color: jsonProj.color || "black",
+        name:  jsonProj.name
     }
 );
